@@ -32,7 +32,25 @@ TC 知识库 由 james gone 发起的一个 Siemens Teamcenter PLM/PDM  技术�
 ## 2. Teamcenter 系统安装
 
 ### 2.1 操作系统
+
+- Windows
+  * Windows 2012 x64 
+  
+- Linux
+  * SLE 11SP4 x64  
+  * RHEL 6
+  
 ### 2.2 数据库
+
+- Oracle 数据库
+  * Windows 环境
+  * Linux 环境
+    + ORACLE 12c 数据库 SLE 11SP4 单实例虚拟机安装
+    + ORACLE 12c 数据库 SLE 11SP4 RAC 虚拟机安装
+  * 其它
+- MS SQL Server 数据库
+
+
 ### 2.3 JAVA 环境
 ### 2.4 License 服务
 ### 2.5 Web 环境
