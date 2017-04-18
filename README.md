@@ -39,6 +39,7 @@ TC 知识库 由 james gone 发起的一个 Siemens Teamcenter PLM/PDM  技术�
 - Linux
   * SLE 11SP4 x64  
   	+ [在VirtualBOX虚拟机软件上安装SUSE Linux 企业版 11 SP4](./2-Installation/SLE_11SP4_installation_in_virtualbox.markdown)
+    + [JT translator for catiaV5 on SUSE Linux](./2-Installation/JT_translator_catiav5_On_SLE.markdown)
   * RHEL 6
   
 ### 2.2 数据库
