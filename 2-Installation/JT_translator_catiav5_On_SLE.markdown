@@ -63,7 +63,7 @@ cd /opt/Siemens/JTTranslators/CATIAV5/11_1/bin
 cd ~/bin
 ln -s /opt/Siemens/JTTranslators/CATIAV5/11_1/bin/OS_GUI catiav5tojt
 ```
-### trubleshoot
+### troubleshoot
 
 - libXm.so.3
 
