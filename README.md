@@ -60,6 +60,22 @@ TC 知识库 由 james gone 发起的一个 Siemens Teamcenter PLM/PDM  技术�
 
 ## 3. Teamcenter 主要应用 applications
 
+### 3.1 My Teamcenter
+### 3.2 Structure Manager
+### 3.3 Organization
+### 3.4 Access Manager
+### 3.5 Classification
+### 3.6 Classification Admin
+### 3.7 Workflow Designer
+### 3.8 Wrokflow Viewer
+### 3.9 Query Builder
+### 3.10 Multi-Structure Manager
+### 3.11 Manufacturing Process Planner
+### 3.12 Lifecycle Viewer
+### 3.13 PLM XML/TC XML Export Import Administration
+### 3.14 Project
+
+
 ## 4. 制造业研发业务知识
 
 ## 5. PLM 实施项目管理
