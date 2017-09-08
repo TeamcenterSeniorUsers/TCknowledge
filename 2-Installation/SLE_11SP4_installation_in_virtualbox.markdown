@@ -78,3 +78,43 @@ http://download.virtualbox.org/virtualbox/5.1.16/VirtualBox-5.1.16-113841-Win.ex
 - 安装完成
 
 
+
+## Setup VirtualBox Additions
+
+```
+# add new dvd driver for iso SUSE-DVD
+sudo mkdir /mnt/dvd /mnt/dvd1
+sudo mount /dev/dvd /mnt/dvd
+sudo mount /dev/dvd1 /mnt/dvd1
+```
+
+```
+# cd /etc/zypp/repos.d/
+sudo cp SUSE-Linux-Enterprise-Server-11-SP4\ 11.4.4-1.109.repo SUSE-dvd1
+vim SUSE-dvd1
+```
+```
+# SUSE-dvd1 content
+[SUSE-SP4-dvd1]
+name=SUSE-SP4-dvd1
+enabled=1
+autorefresh=0
+baseurl=file:///mnt/dvd1
+path=/
+type=yast2
+keeppackages=0
+```
+
+```
+sudo zyppin in gcc
+sudo zypper in kerner-source
+# cd to dvd VirtualBox Additions
+sudo ./VBoxLinuxAdditions.run
+```
+
+```
+# Host share folder is D_DRIVE
+# cd home
+mkdir jamesHost
+sudo /sbin/mount.vboxsf D_DRIVE jamesHost
+```

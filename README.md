@@ -35,6 +35,8 @@ TC 知识库 由 james gone 发起的一个 Siemens Teamcenter PLM/PDM  技术�
 
 - Windows
   * Windows 2012 x64 
+  * windows 7 sp1 64
+    + [Win7_TC_Client](./2-Installation/Win7_TC_Client.markdown)
   
 - Linux
   * SLE 11SP4 x64  
