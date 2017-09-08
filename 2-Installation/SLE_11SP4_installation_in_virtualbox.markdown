@@ -90,8 +90,8 @@ sudo mount /dev/dvd1 /mnt/dvd1
 
 ```
 # cd /etc/zypp/repos.d/
-sudo cp SUSE-Linux-Enterprise-Server-11-SP4\ 11.4.4-1.109.repo SUSE-dvd1
-vim SUSE-dvd1
+sudo cp SUSE-Linux-Enterprise-Server-11-SP4\ 11.4.4-1.109.repo SUSE-dvd1.repo
+vim SUSE-dvd1.repo
 ```
 ```
 # SUSE-dvd1 content
