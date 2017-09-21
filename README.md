@@ -20,20 +20,20 @@ TC 知识库 由 james gone 发起的一个 Siemens Teamcenter PLM/PDM  技术�
   2.5. [Web 环境](#25-web-环境)  
   2.6. [TC 2-tier 两层](#26-tc-2-tier-两层)
 3. [Teamcenter 主要应用 applications](#3-teamcenter-主要应用-applications)  
-  3.1. [My Teamcenter]
-  3.2. [Structure Manager]
-  3.3. [Organization]
-  3.4. [Access Manager]
-  3.5. [Classification]
-  3.6. [Classification Admin]
-  3.7. [Workflow Designer]
-  3.8. [Wrokflow Viewer]
-  3.9. [Query Builder]
-  3.10. [Multi-Structure Manager]
-  3.11. [Manufacturing Process Planner]
-  3.12. [Lifecycle Viewer]
-  3.13. [PLM XML/TC XML Export Import Administration]
-  3.14. [Project]
+  3.1. [My Teamcenter](#31-My-Teamcenter)
+  3.2. [Structure Manager](#32-Structure-Manager)
+  3.3. [Organization](#33-Organization)
+  3.4. [Access Manager](#34-Access-Manager)
+  3.5. [Classification](#35-Classification)
+  3.6. [Classification Admin](#36-Classification Admin)
+  3.7. [Workflow Designer](#37-Workflow-Designer)
+  3.8. [Wrokflow Viewer](#38-Workflow-Viewer)
+  3.9. [Query Builder](#39-Query-Builder)
+  3.10. [Multi-Structure Manager](#310-Multi-Structure-Manager)
+  3.11. [Manufacturing Process Planner](#311-Manufacturing-Process-Planner)
+  3.12. [Lifecycle Viewer](#312-Lifecycle-Viewer)
+  3.13. [PLM XML/TC XML Export Import Administration](#313-PLM-XML-TC-XML-Export-Import-Administratior)
+  3.14. [Project](#314-Project)
 4. [制造业研发业务知识](#4-制造业研发业务知识) 
 5. [PLM 实施项目管理](#5-plm-实施项目管理)
 
